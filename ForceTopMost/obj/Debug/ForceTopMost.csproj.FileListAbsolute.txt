@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\bin\Debug\ForceTopMost.exe.config
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\bin\Debug\ForceTopMost.exe
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\bin\Debug\ForceTopMost.pdb
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.Form1.resources
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.Properties.Resources.resources
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.exe
+C:\Users\rafae\source\repos\ForceTopMost\ForceTopMost\obj\Debug\ForceTopMost.pdb
