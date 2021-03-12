@@ -9,6 +9,7 @@ namespace ForceTopMost
     using HWND = IntPtr;
     class WindowsOpened
     {
+        //you are beautiful
         public static IntPtr GetWindow(string programName)
         {
 
